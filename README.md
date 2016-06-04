@@ -1,1 +1,2 @@
 # popen_sample
+popenを使ってごにょごにょやるサンプルスクリプト
